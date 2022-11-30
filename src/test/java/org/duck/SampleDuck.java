@@ -41,7 +41,7 @@ public class SampleDuck extends BaseClass {
 		
 		
 		
-		System.out.println("enter the name");
+		
 		
 		
 		
